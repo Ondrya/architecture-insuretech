@@ -1,2 +1,2 @@
 
-![to be](./InsureTech_технологическая%20архитектура_to-be.drawio)
+![to be](./InsureTech_технологическая%20архитектура_to-be.svg)
